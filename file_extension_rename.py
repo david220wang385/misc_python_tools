@@ -3,6 +3,7 @@ References:
 https://www.geeksforgeeks.org/rename-all-file-names-in-your-directory-using-python/
 https://tutorial.eyehunts.com/python/python-string-index-function-index-substring/
 https://www.w3schools.com/python/ref_string_endswith.asp
+https://www.geeksforgeeks.org/python-string-ljust-rjust-center/
 """
 
 import os, argparse
