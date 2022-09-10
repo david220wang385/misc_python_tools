@@ -87,7 +87,7 @@ def main():
 
             if text_list.offsets(user_input):
                 print()
-                print((" " + key[:60] + " ").center(100, '-'), "\n")
+                print((" " + key[:80] + " ").center(100, '-'), "\n")
                 text_list.print_concordance(user_input, width=width)
                 print("".center(100, '-'))
         
